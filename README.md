@@ -8,7 +8,7 @@ Bun is A convenient bluetooth signal library, support to send bluetooth signals,
 
 ### [not open source, only available for use]
 
-[[中文文档]](https://github.com/Deepblue1996/Dove/blob/master/README_CN.md)
+[[中文文档]](https://github.com/Deepblue1996/Bun/blob/master/README_CN.md)
 
 ## How do I use Bun
 

@@ -8,7 +8,7 @@ Bun是一个方便的蓝牙信号库，支持蓝牙发送信号，数据返回�
 
 ### [不是开源的，只供使用]
 
-[[English document]](https://github.com/Deepblue1996/Dove/blob/master/README.md)
+[[English document]](https://github.com/Deepblue1996/Bun/blob/master/README.md)
 
 ## 如何配置Bun
 
