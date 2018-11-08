@@ -5,7 +5,8 @@
 <a href="https://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/license-apache-green.svg"></a>
 
 Bun is A convenient bluetooth signal library, support to send bluetooth signals, data return operation, it is still developing. 
-#[not open source, only available for use]
+
+###[not open source, only available for use]
 
 [[中文文档]](https://github.com/Deepblue1996/Dove/blob/master/README_CN.md)
 
