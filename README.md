@@ -16,44 +16,8 @@ Create or open your Application Class,
 
 In onCreate ():
 
-<pre><code>Dove.birth(Core.instance().getApplicationContext(),
-                Nest.build().setBaseUrl(ComDef.BASE_COM_URL).setInterfaceClass(JobTask.class));
-</code></pre>
+<pre><code>com.jiagu.sdk.BlueCoreProtected.install(this);
 
-Why is it called the bird's nest, because it is a basic project.
-
-Use it build().setBaseUrl().setInterfaceClass() for
-
-Dove.birh(?), It will give you the interface;
-
-example:
-
-<pre><code>JobTask jobTask = Dove.birth(Core.instance().getApplicationContext(),
-                Nest.build()
-		    .setBaseUrl(ComDef.BASE_COM_URL)
-		    .setInterfaceClass(JobTask.class)
-		    .addGlobalParam((String)key, (String)param) / 
-		    .addGlobalParams(HashMap<String, String> maps));
-</code></pre>
-
-Two:
-
-Where you need to use the network:
-
-<pre><code>Dove.flyLife( Activity, jobTask.? (Your Interface Service)
-	, new Dover<?>() {
-
-                    @Override
-                    public void don(Disposable d, @NonNull ? thing) {
-                        // The next step to receive data
-                    }
-
-                    @Override
-                    public void die(Disposable d, @NonNull Throwable throwable) {
-                        // Abnormality
-                    }
-		    
-                });
 </code></pre>
 
 ## Basic deployment
@@ -72,6 +36,9 @@ Add it in your root build.gradle at the end of repositories:
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
+      			maven { url "https://raw.githubusercontent.com/Deepblue1996/BlueData/master" }
+        		maven { url "https://raw.githubusercontent.com/Deepblue1996/BlueCore/master" }
+        		maven { url "https://raw.githubusercontent.com/Deepblue1996/Bun/master" }
 		}
 	}
 Step 2. Add the dependency
