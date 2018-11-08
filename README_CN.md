@@ -23,14 +23,9 @@ Bun是一个方便的蓝牙信号库，支持蓝牙发送信号，数据返回�
 
 要在构建中加入Git项目:
 
-步骤1. 将JitPack存储库添加到构建文件中
+步骤1.
 
-gradle
-maven
-sbt
-leiningen
-
-在根构建中添加它, repositories里添加:
+在根Gradle中, repositories里添加:
 
 	allprojects {
 		repositories {
