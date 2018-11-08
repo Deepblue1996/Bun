@@ -4,7 +4,7 @@
 [![](https://jitpack.io/v/Deepblue1996/Bun.svg)](https://jitpack.io/#Deepblue1996/Bun)
 <a href="https://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/license-apache-green.svg"></a>
 
-Dove is a convenient network layer framework based on Retrofit2 and RxJava2 for two development and encapsulation.
+Bun is A convenient bluetooth signal library, support to send bluetooth signals, data return operation, it is still developing. [not open source, only available for use]
 
 [[中文文档]](https://github.com/Deepblue1996/Dove/blob/master/README_CN.md)
 
