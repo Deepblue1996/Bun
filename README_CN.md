@@ -4,34 +4,33 @@
 [![](https://jitpack.io/v/Deepblue1996/Bun.svg)](https://jitpack.io/#Deepblue1996/Bun)
 <a href="https://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/license-apache-green.svg"></a>
 
-Bun is A convenient bluetooth signal library, support to send bluetooth signals, data return operation, it is still developing. 
+Bun是一个方便的蓝牙信号库，支持蓝牙发送信号，数据返回操作，它还在不断优化中。
 
-### [not open source, only available for use]
+### [不是开源的，只供使用]
 
-[[中文文档]](https://github.com/Deepblue1996/Dove/blob/master/README_CN.md)
+[[English document]](https://github.com/Deepblue1996/Dove/blob/master/README.md)
 
-## How do I use Bun
+## 如何配置Bun
 
-One:
+创建并打开 Application 类,
 
-Create or open your Application Class, 
-
-In onCreate ():
+在 onCreate () 方法中:
 
 <pre><code>com.jiagu.sdk.BlueCoreProtected.install(this);
 </code></pre>
 
-## Basic deployment
+## 基础配置
 
-To get a Git project into your build:
+要在构建中加入Git项目:
 
-Step 1. Add the JitPack repository to your build file
+步骤1. 将JitPack存储库添加到构建文件中
 
 gradle
 maven
 sbt
 leiningen
-Add it in your root build.gradle at the end of repositories:
+
+在根构建中添加它, repositories里添加:
 
 	allprojects {
 		repositories {
@@ -42,12 +41,14 @@ Add it in your root build.gradle at the end of repositories:
         		maven { url "https://raw.githubusercontent.com/Deepblue1996/Bun/master" }
 		}
 	}
-Step 2. Add the dependency
+
+步骤2. 添加依赖关系
 
 	dependencies {
 	        compile 'com.deep:Bun:1.0.0'
 	}
-Step 3. Gradle
+
+步骤3. Gradle
 
 ## LICENSE
 
