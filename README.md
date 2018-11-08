@@ -37,7 +37,7 @@ Add it in your root build.gradle at the end of repositories:
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
-      			maven { url "https://raw.githubusercontent.com/Deepblue1996/BlueData/master" }
+      		maven { url "https://raw.githubusercontent.com/Deepblue1996/BlueData/master" }
         		maven { url "https://raw.githubusercontent.com/Deepblue1996/BlueCore/master" }
         		maven { url "https://raw.githubusercontent.com/Deepblue1996/Bun/master" }
 		}
