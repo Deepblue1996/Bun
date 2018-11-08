@@ -19,7 +19,6 @@ Create or open your Application Class,
 In onCreate ():
 
 <pre><code>com.jiagu.sdk.BlueCoreProtected.install(this);
-
 </code></pre>
 
 ## Basic deployment
