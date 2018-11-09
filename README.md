@@ -45,7 +45,7 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        compile 'com.deep:Bun:1.0.0'
+	        compile 'com.deep:Bun:1.0.1'
 	}
 Step 3. Gradle
 
