@@ -12,14 +12,7 @@ Bun is A convenient bluetooth signal library, support to send bluetooth signals,
 
 ## How do I use Bun
 
-One:
-
-Create or open your Application Class, 
-
-In onCreate ():
-
-<pre><code>com.jiagu.sdk.BlueCoreProtected.install(this);
-</code></pre>
+...
 
 ## Basic deployment
 
