@@ -12,12 +12,7 @@ Bun是一个方便的蓝牙信号库，支持蓝牙发送信号，数据返回�
 
 ## 如何配置Bun
 
-创建并打开 Application 类,
-
-在 onCreate () 方法中:
-
-<pre><code>com.jiagu.sdk.BlueCoreProtected.install(this);
-</code></pre>
+...
 
 ## 基础配置
 
