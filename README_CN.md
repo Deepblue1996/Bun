@@ -35,14 +35,14 @@ Bun是一个方便的蓝牙信号库，支持蓝牙发送信号，数据返回�
 步骤2. 添加依赖关系
 
 	dependencies {
-	        compile 'com.deep:Bun:1.0.7'
+	        compile 'com.deep:Bun:1.1.0'
 	}
 
 步骤3. Gradle
 
 ## LICENSE
 
-<pre><code>Copyright 2018 Deepblue
+<pre><code>Copyright 2019 中山市睿芯电子科技有限公司
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
