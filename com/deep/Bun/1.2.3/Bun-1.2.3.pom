@@ -14,15 +14,15 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.deep</groupId>
-      <artifactId>BlueData</artifactId>
-      <version>1.0.6</version>
+      <groupId>BluetoothMain</groupId>
+      <artifactId>BlueCore</artifactId>
+      <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.deep</groupId>
-      <artifactId>BlueCore</artifactId>
-      <version>1.2.3</version>
+      <artifactId>BlueData</artifactId>
+      <version>1.0.6</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
