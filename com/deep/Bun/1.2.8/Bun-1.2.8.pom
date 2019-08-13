@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.deep</groupId>
   <artifactId>Bun</artifactId>
-  <version>1.2.7</version>
+  <version>1.2.8</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -22,7 +22,7 @@
     <dependency>
       <groupId>com.deep</groupId>
       <artifactId>BlueCore</artifactId>
-      <version>1.2.6</version>
+      <version>1.2.7</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
